@@ -12,4 +12,4 @@ Due to the Station's orbit it appears to travel from west to east over our plane
 
 ## Demo
 
-Here is a working live demo :[Demo](https://asiyegokalp.github.io/Quiz-App/)
+Here is a working live demo :[Demo](https://asiyegokalp.github.io/where-is-ISS/)
